@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome Page</title>
+    <link rel="stylesheet" type="text/html" href="index.html">
+  </head>
+  <body>
+      <form class="" action="index.html" method="post">
+        <div class="uname">
+          <label for="">Username</label>
+          <input type="text" name="" value="">
+        </div>
+
+       <div class="pwd">
+        <label for="">Password</label>
+        <input type="text" name="" value="">
+      </div>
+
+        <div class="btn">
+          <button type="button" name="Submit"></button>
+
+        </div>
+      </form>
+
+
+          </header>
+        </body>
+      </html>
